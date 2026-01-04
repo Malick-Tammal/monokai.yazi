@@ -178,5 +178,5 @@ rules = [
   { name = "*/", is = "dummy", bg = "#FF6188" },
 
   # Fallback
-  { name = "*/", fg = "#FC9867" },
+  { url = "*/", fg = "#FC9867", bold = true },
 ]
